@@ -1,0 +1,15 @@
+C:\Repos\dotnet-app\consoleApp\bin\Debug\net9.0\consoleApp.exe
+C:\Repos\dotnet-app\consoleApp\bin\Debug\net9.0\consoleApp.deps.json
+C:\Repos\dotnet-app\consoleApp\bin\Debug\net9.0\consoleApp.runtimeconfig.json
+C:\Repos\dotnet-app\consoleApp\bin\Debug\net9.0\consoleApp.dll
+C:\Repos\dotnet-app\consoleApp\bin\Debug\net9.0\consoleApp.pdb
+C:\Repos\dotnet-app\consoleApp\obj\Debug\net9.0\consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\dotnet-app\consoleApp\obj\Debug\net9.0\consoleApp.AssemblyInfoInputs.cache
+C:\Repos\dotnet-app\consoleApp\obj\Debug\net9.0\consoleApp.AssemblyInfo.cs
+C:\Repos\dotnet-app\consoleApp\obj\Debug\net9.0\consoleApp.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-app\consoleApp\obj\Debug\net9.0\consoleApp.sourcelink.json
+C:\Repos\dotnet-app\consoleApp\obj\Debug\net9.0\consoleApp.dll
+C:\Repos\dotnet-app\consoleApp\obj\Debug\net9.0\refint\consoleApp.dll
+C:\Repos\dotnet-app\consoleApp\obj\Debug\net9.0\consoleApp.pdb
+C:\Repos\dotnet-app\consoleApp\obj\Debug\net9.0\consoleApp.genruntimeconfig.cache
+C:\Repos\dotnet-app\consoleApp\obj\Debug\net9.0\ref\consoleApp.dll
